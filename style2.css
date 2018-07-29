@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+img {
+  border-radius: 50%;
+  }
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+    .Navbar {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: rgb(255, 255, 255);
+    }
+    
+    .Navbar li {
+        float: left;
+    }
+    
+    li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    
+    li a:hover {
+        color: rgb(86, 102, 252);
+    }
+    input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+    }
+    
+    input[type=submit] {
+        background-color: black;
+        color: white;
+        padding: 12px 20px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: auto 240px;
+        font-weight: bold;
+    }
+    
+    input[type=submit]:hover {
+        background-color: #a4a8a5;
+    }
+    
+    .container {
+        border-radius: 5px;
+        background-color: white;
+        padding: 20px;
+        width: 40%;
+        margin: auto;
+    }
+
+    .social-media {
+        float: right;
+        width: 820px;
+    }
