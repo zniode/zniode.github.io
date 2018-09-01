@@ -1,2 +1,2 @@
 # zniode.github.io
-Hacktiv8 Full Stack Batch 23
+Hacktiv8 Full Stack Batch 25
